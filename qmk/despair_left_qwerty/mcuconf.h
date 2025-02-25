@@ -1,5 +1,6 @@
-// Copyright 2024 
-// miketronic@github m1ketronic@discord -- Mike B <mxb540@gmail.com>
+// Copyright 2025
+// instagram.com/mkbrrd
+// miketronic@github
 // SPDX-License-Identifier: GPL-2.0+
 
 #include_next "mcuconf.h"
